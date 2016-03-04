@@ -1,0 +1,186 @@
+Process Name: [System Process]
+Process Name: System
+Process Name: smss.exe
+Process Name: csrss.exe
+Process Name: wininit.exe
+Process Name: services.exe
+Process Name: lsass.exe
+Process Name: svchost.exe
+Process Name: svchost.exe
+Process Name: nvvsvc.exe
+Process Name: svchost.exe
+Process Name: svchost.exe
+Process Name: svchost.exe
+Process Name: svchost.exe
+Process Name: svchost.exe
+Process Name: spoolsv.exe
+Process Name: svchost.exe
+Process Name: armsvc.exe
+Process Name: SkypeC2CAutoUpdateSvc.exe
+Process Name: SkypeC2CPNRSvc.exe
+Process Name: dasHost.exe
+Process Name: GfExperienceService.exe
+Process Name: IpOverUsbSvc.exe
+Process Name: LiveUpdate.exe
+Process Name: NvNetworkService.exe
+Process Name: NvStreamService.exe
+Process Name: sqlwriter.exe
+Process Name: svchost.exe
+Process Name: TeamViewer_Service.exe
+Process Name: vmnat.exe
+Process Name: MsMpEng.exe
+Process Name: vmware-authd.exe
+Process Name: vmnetdhcp.exe
+Process Name: vmware-usbarbitrator64.exe
+Process Name: vmware-hostd.exe
+Process Name: NisSrv.exe
+Process Name: SearchIndexer.exe
+Process Name: svchost.exe
+Process Name: WUDFHost.exe
+Process Name: NvStreamNetworkService.exe
+Process Name: svchost.exe
+Process Name: DiscSoftBusService.exe
+Process Name: dllhost.exe
+Process Name: wmpnetwk.exe
+Process Name: OSPPSVC.EXE
+Process Name: csrss.exe
+Process Name: winlogon.exe
+Process Name: dwm.exe
+Process Name: nvxdsync.exe
+Process Name: nvvsvc.exe
+Process Name: taskhostex.exe
+Memory used by process: 7024640
+CPU Usage by process: 1409180046
+Process Name: explorer.exe
+Memory used by process: 120938496
+CPU Usage by process: 0
+Process Name: nvtray.exe
+Memory used by process: 2957312
+CPU Usage by process: 1570463932
+Process Name: NvBackend.exe
+Memory used by process: 15048704
+CPU Usage by process: 2973653571
+Process Name: IDMan.exe
+Memory used by process: 7262208
+CPU Usage by process: 1960687256
+Process Name: Skype.exe
+Memory used by process: 171360256
+CPU Usage by process: 2435898694
+Process Name: IDMIntegrator64.exe
+Memory used by process: 1957888
+CPU Usage by process: 0
+Process Name: IEMonitor.exe
+Memory used by process: 1462272
+CPU Usage by process: 3119823945
+Process Name: AdobeARM.exe
+Memory used by process: 3555328
+CPU Usage by process: 47239916
+Process Name: Dropbox.exe
+Memory used by process: 159395840
+CPU Usage by process: 0
+Process Name: vmware-tray.exe
+Memory used by process: 1183744
+CPU Usage by process: 1904957202
+Process Name: NvStreamUserAgent.exe
+Process Name: conhost.exe
+Process Name: Steam.exe
+Memory used by process: 39456768
+CPU Usage by process: 475356132
+Process Name: steamwebhelper.exe
+Memory used by process: 9224192
+CPU Usage by process: 2195330736
+Process Name: SteamService.exe
+Process Name: RuntimeBroker.exe
+Memory used by process: 3420160
+CPU Usage by process: 3210811298
+Process Name: devenv.exe
+Memory used by process: 288387072
+CPU Usage by process: 3943748354
+Process Name: WINWORD.EXE
+Memory used by process: 36024320
+CPU Usage by process: 0
+Process Name: splwow64.exe
+Memory used by process: 2338816
+CPU Usage by process: 325039196
+Process Name: notepad++.exe
+Memory used by process: 8593408
+CPU Usage by process: 0
+Process Name: rads_user_kernel.exe
+Memory used by process: 5373952
+CPU Usage by process: 231988993
+Process Name: LoLLauncher.exe
+Memory used by process: 4493312
+CPU Usage by process: 0
+Process Name: LoLPatcher.exe
+Memory used by process: 12476416
+CPU Usage by process: 228355247
+Process Name: LolClient.exe
+Memory used by process: 763469824
+CPU Usage by process: 0
+Process Name: vlc.exe
+Memory used by process: 170668032
+CPU Usage by process: 0
+Process Name: audiodg.exe
+Process Name: Taskmgr.exe
+Process Name: mmc.exe
+Process Name: glcnd.exe
+Memory used by process: 35983360
+CPU Usage by process: 1201558567
+Process Name: vcpkgsrv.exe
+Memory used by process: 130244608
+CPU Usage by process: 0
+Process Name: chrome.exe
+Memory used by process: 72843264
+CPU Usage by process: 2545531782
+Process Name: chrome.exe
+Memory used by process: 27602944
+CPU Usage by process: 0
+Process Name: chrome.exe
+Memory used by process: 81891328
+CPU Usage by process: 1681741019
+Process Name: chrome.exe
+Memory used by process: 57974784
+CPU Usage by process: 0
+Process Name: chrome.exe
+Memory used by process: 69701632
+CPU Usage by process: 325089581
+Process Name: chrome.exe
+Memory used by process: 103444480
+CPU Usage by process: 0
+Process Name: chrome.exe
+Memory used by process: 35704832
+CPU Usage by process: 231962911
+Process Name: SourceTree.exe
+Memory used by process: 137531392
+CPU Usage by process: 0
+Process Name: ssh-agent.exe
+Memory used by process: 1781760
+CPU Usage by process: 0
+Process Name: MSBuild.exe
+Memory used by process: 26333184
+CPU Usage by process: 201823098
+Process Name: conhost.exe
+Memory used by process: 741376
+CPU Usage by process: 0
+Process Name: mspdbsrv.exe
+Memory used by process: 2195456
+CPU Usage by process: 45092647
+Process Name: MpCmdRun.exe
+Process Name: vcpkgsrv.exe
+Memory used by process: 135561216
+CPU Usage by process: 0
+Process Name: SearchProtocolHost.exe
+Process Name: SearchFilterHost.exe
+Process Name: CrossOverMailServer.exe
+Memory used by process: 5783552
+CPU Usage by process: 2698577372
+Process Name: conhost.exe
+Memory used by process: 1089536
+CPU Usage by process: 0
+Process Name: WindowsAgent.exe
+Memory used by process: 7929856
+CPU Usage by process: 579994584
+Process Name: conhost.exe
+Memory used by process: 1081344
+CPU Usage by process: 0
+Process Name: MpCmdRun.exe
